@@ -1,12 +1,7 @@
 <!--Banner-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:441350&height=180&section=header&text=Aditya%20Kumar&fontSize=42&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Tableau&descAlignY=68&descColor=ffeb95" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:441350&height=180&section=header&text=Aditya%20Kumar&fontSize=42&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL_Developer&descAlignY=68&descColor=ffeb95" width="100%" />
 </p>
-
-<!--Right-Aligned Coding Illustration-->
-<div>
-  <img align="right" width="38%" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e84634e7c3ffa09646a34167/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Data Analytics Illustration">
-</div>
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀᴅɪᴛʏᴀ! 
