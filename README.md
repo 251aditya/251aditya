@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aditya+Kumar+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL+%7C+Tableau;Turning+Complex+Data+into+Actionable+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aditya+Kumar+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL_Developer;Turning+Complex+Data+into+Actionable+Insights)](https://git.io/typing-svg)
 
 <!-- Social & Portfolio Links -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://251aditya.github.io/Portfolio/)
@@ -12,11 +12,11 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Data Analyst** based in India with hands-on experience in exploratory data analysis (EDA), machine learning modeling, customer segmentation, and interactive dashboarding[cite: 2]. I enjoy uncovering patterns in real-world datasets and building visual stories that drive business decisions[cite: 2].
+I am a **Data Analyst** based in India with hands-on experience in exploratory data analysis (EDA), machine learning modeling, customer segmentation, and interactive dashboarding. I enjoy uncovering patterns in real-world datasets and building visual stories that drive business decisions.
 
-- 🔭 **Currently working on:** End-to-end analytics dashboards and predictive modeling projects[cite: 2].
-- 🛠️ **Core Skills:** Data Cleaning, Statistical Analysis, Predictive Modeling, Sentiment Analysis, and Data Visualization[cite: 2].
-- 🌐 **Portfolio:** [251aditya.github.io/Portfolio](https://251aditya.github.io/Portfolio/)[cite: 2]
+- 🔭 **Currently working on:** End-to-end analytics dashboards and predictive modeling projects.
+- 🛠️ **Core Skills:** Data Cleaning, Statistical Analysis, Predictive Modeling, Sentiment Analysis, and Data Visualization.
+- 🌐 **Portfolio:** [251aditya.github.io/Portfolio](https://251aditya.github.io/Portfolio/)
 - 💼 **LinkedIn:** [linkedin.com/in/aditya251](https://www.linkedin.com/in/aditya251/)
 
 ---
@@ -41,12 +41,12 @@ I am a **Data Analyst** based in India with hands-on experience in exploratory d
 
 | Project | Focus Area | Tools Used |
 | :--- | :--- | :--- |
-| [**Zomato Restaurant Clustering & Sentiment Analysis**](https://github.com/251aditya/Zomato-Restaurant_Clustering_and_Sentiment_Analysis) | NLP & Unsupervised ML[cite: 2] | Python, Jupyter, Scikit-Learn[cite: 2] |
-| [**Bike Sharing Demand Prediction**](https://github.com/251aditya/Bike_Sharing_Demand_Prediction) | Regression & Forecasting[cite: 2] | Python, Jupyter, Pandas[cite: 2] |
-| [**Amazon Sales Analysis**](https://github.com/251aditya/Amazon_sales_Analysis) | Regional Sales & BI Dashboard[cite: 2] | Tableau[cite: 2] |
-| [**Airbnb EDA Project**](https://github.com/251aditya/EDA-project-of-Airbnb) | Exploratory Data Analysis[cite: 2] | Python, Jupyter, Matplotlib/Seaborn[cite: 2] |
-| [**Android Authenticity Prediction**](https://github.com/251aditya/Android_Authenticity_Prediction_Aditya) | Classification Modeling[cite: 2] | Python, Jupyter[cite: 2] |
-| [**Crop Production Analysis**](https://github.com/251aditya/Crop_production_Analysis) | Agricultural Data Insights[cite: 2] | Python, Data Analytics |
+| [**Zomato Restaurant Clustering & Sentiment Analysis**](https://github.com/251aditya/Zomato-Restaurant_Clustering_and_Sentiment_Analysis) | NLP & Unsupervised ML | Python, Jupyter, Scikit-Learn |
+| [**Bike Sharing Demand Prediction**](https://github.com/251aditya/Bike_Sharing_Demand_Prediction) | Regression & Forecasting | Python, Jupyter, Pandas |
+| [**Amazon Sales Analysis**](https://github.com/251aditya/Amazon_sales_Analysis) | Regional Sales & BI Dashboard | Tableau |
+| [**Airbnb EDA Project**](https://github.com/251aditya/EDA-project-of-Airbnb) | Exploratory Data Analysis | Python, Jupyter, Matplotlib/Seaborn |
+| [**Android Authenticity Prediction**](https://github.com/251aditya/Android_Authenticity_Prediction_Aditya) | Classification Modeling | Python, Jupyter |
+| [**Crop Production Analysis**](https://github.com/251aditya/Crop_production_Analysis) | Agricultural Data Insights | Python, Data Analytics |
 
 ---
 
