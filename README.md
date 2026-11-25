@@ -1,62 +1,172 @@
-<div align="center">
+<!--Banner-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:441350&height=180&section=header&text=Aditya%20Kumar&fontSize=42&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Tableau&descAlignY=68&descColor=ffeb95" width="100%" />
+</p>
 
-<!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aditya+Kumar+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL_Developer;Turning+Complex+Data+into+Actionable+Insights)](https://git.io/typing-svg)
-
-<!-- Social & Portfolio Links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://251aditya.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya251/)
-
+<!--Right-Aligned Coding Illustration-->
+<div>
+  <img align="right" width="38%" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e84634e7c3ffa09646a34167/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Data Analytics Illustration">
 </div>
 
----
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀᴅɪᴛʏᴀ! 
+*Data Analyst (Python / SQL / Tableau / Machine Learning)*
+<br /> 
 
-### 👨‍💻 About Me
-I am a **Data Analyst** based in India with hands-on experience in exploratory data analysis (EDA), machine learning modeling, customer segmentation, and interactive dashboarding. I enjoy uncovering patterns in real-world datasets and building visual stories that drive business decisions.
+<!--Start Intro-->               
+<p align="left">I am a Data Analyst with a strong passion for Python, SQL, Tableau, Exploratory Data Analysis (EDA), Predictive Modeling, and turning raw datasets into actionable business insights.</p>
 
-- 🔭 **Currently working on:** End-to-end analytics dashboards and predictive modeling projects.
-- 🛠️ **Core Skills:** Data Cleaning, Statistical Analysis, Predictive Modeling, Sentiment Analysis, and Data Visualization.
-- 🌐 **Portfolio:** [251aditya.github.io/Portfolio](https://251aditya.github.io/Portfolio/)
-- 💼 **LinkedIn:** [linkedin.com/in/aditya251](https://www.linkedin.com/in/aditya251/)
+- ✨ Turning complex data into clear visual stories.
+- 🌱 Currently deepening my expertise in Machine Learning, Statistical Modeling, and Business Intelligence.
+- 📊 Experienced with clustering, sentiment analysis, demand forecasting, and interactive dashboarding.
+- 💼 Connect with me professionally on [LinkedIn](https://www.linkedin.com/in/aditya251/).
+- 💻 Visit my [Portfolio](https://251aditya.github.io/Portfolio/) to explore my work in detail.
+<!--End Intro-->
 
----
-
-### 🧰 Tech Stack & Tools
-
+<!--Profile Count Badge-->
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://komarev.com/ghpvc/?username=251aditya&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="251aditya" style="padding-right:20px;" />
 </p>
 
 ---
 
-### 📌 Featured Data Analytics Projects
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ ғᴏᴄᴜs</h2> 
 
-| Project | Focus Area | Tools Used |
-| :--- | :--- | :--- |
-| [**Zomato Restaurant Clustering & Sentiment Analysis**](https://github.com/251aditya/Zomato-Restaurant_Clustering_and_Sentiment_Analysis) | NLP & Unsupervised ML | Python, Jupyter, Scikit-Learn |
-| [**Bike Sharing Demand Prediction**](https://github.com/251aditya/Bike_Sharing_Demand_Prediction) | Regression & Forecasting | Python, Jupyter, Pandas |
-| [**Amazon Sales Analysis**](https://github.com/251aditya/Amazon_sales_Analysis) | Regional Sales & BI Dashboard | Tableau |
-| [**Airbnb EDA Project**](https://github.com/251aditya/EDA-project-of-Airbnb) | Exploratory Data Analysis | Python, Jupyter, Matplotlib/Seaborn |
-| [**Android Authenticity Prediction**](https://github.com/251aditya/Android_Authenticity_Prediction_Aditya) | Classification Modeling | Python, Jupyter |
-| [**Crop Production Analysis**](https://github.com/251aditya/Crop_production_Analysis) | Agricultural Data Insights | Python, Data Analytics |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,html,css&perline=8" />
+  </a>
+</p>
+<br />
+
+<h3 align="left">🛠️ Core Data Stack</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h3 align="left">🎯 Current Learning & Focus</h3>
+<ul align="left">
+  <li>Building end-to-end interactive dashboards and KPI trackers in Tableau.</li>
+  <li>Advancing supervised & unsupervised Machine Learning workflows in Python.</li>
+  <li>Writing optimized SQL queries for large-scale data extraction and reporting.</li>
+</ul>
+<br />
 
 ---
 
-### 📊 Live GitHub Activity
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/251aditya">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=251aditya&no-bg=true&row=1&column=6&margin-w=15&margin-h=15&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=251aditya&no-bg=true&row=1&column=6&margin-w=15&margin-h=15">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=251aditya&no-bg=true&no-frame=true&row=1&column=6&margin-w=15&margin-h=15">
+    </picture>
+  </a>
+</p>
+<br />
 
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs & Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/251aditya">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=251aditya&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/251aditya">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=251aditya&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛ 1</strong></h3>
+      <p align="center">
+        <a href="https://github.com/251aditya/Zomato-Restaurant_Clustering_and_Sentiment_Analysis">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=251aditya&repo=Zomato-Restaurant_Clustering_and_Sentiment_Analysis&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Zomato Clustering & Sentiment Analysis" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛ 2</strong></h3>
+      <p align="center">
+        <a href="https://github.com/251aditya/Bike_Sharing_Demand_Prediction">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=251aditya&repo=Bike_Sharing_Demand_Prediction&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Bike Sharing Demand Prediction" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛ 3</strong></h3>
+      <p align="center">
+        <a href="https://github.com/251aditya/Amazon_sales_Analysis">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=251aditya&repo=Amazon_sales_Analysis&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Amazon Sales Analysis" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛ 4</strong></h3>
+      <p align="center">
+        <a href="https://github.com/251aditya/EDA-project-of-Airbnb">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=251aditya&repo=EDA-project-of-Airbnb&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Airbnb EDA Project" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=251aditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=251aditya&layout=compact&langs_count=6&theme=tokyonight" />
+  <img src="https://activity-graph-kappa.vercel.app/graph?username=251aditya&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" />
 </div>
 
+---
+
+<!--Daily Quote Card--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" />
+</p>
+
+---
+
+<!--Contact Section--> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=251aditya&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/aditya251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="https://github.com/251aditya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" />
+  </a>
+  <a href="https://251aditya.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-441350?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
+  </a>
 </div>
+<br/>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:441350&height=65&section=footer" width="100%" />
+</p>
