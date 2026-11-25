@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:441350&height=180&section=header&text=Aditya%20Kumar&fontSize=42&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL_Developer&descAlignY=68&descColor=ffeb95" width="100%" />
 </p>
 
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀᴅɪᴛʏᴀ! 
 *Data Analyst (Python / SQL / Tableau / Machine Learning)*
@@ -149,14 +154,20 @@
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/aditya251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  <a href="mailto:kumar1801aditya@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/251aditya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
   </a>
-  <a href="https://251aditya.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-441350?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aditya251/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/919296971799" target="_blank">
+    <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="52" height="52" alt="WhatsApp" />
   </a>
 </div>
 <br/>
